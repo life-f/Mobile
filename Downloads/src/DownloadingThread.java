@@ -78,3 +78,8 @@ public class DownloadingThread extends Thread {
     }
 }
 
+
+/*
+E:\РМП\Downloads\links.txt
+E:\РМП\images
+ */
